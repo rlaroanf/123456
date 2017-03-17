@@ -4,7 +4,9 @@ int main(){
    
    int i,j;
 
-
+   
+   for(int i=0;i<10;i++)
+      printf("*");
 
    return 0;
 }
